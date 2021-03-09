@@ -1,6 +1,5 @@
 # starsky
 
-![效果图预览](https://i.loli.net/2021/03/09/oR4kw2zaeT16GJI.png)
 ![效果图预览](https://i.loli.net/2021/03/09/iLQ9D2nKEXW57Pl.png)
 
 ## Project setup
